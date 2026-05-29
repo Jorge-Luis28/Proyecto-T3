@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Historial/Historial.csproj" Id="b407d816-7466-47a3-a093-ecd690c8645a" />
+  <Project Path="Monitoreo/Monitoreo.csproj" Id="60303c60-5793-47dc-93c1-9876d918fbc1" />
+  <Project Path="Multimedia/Multimedia.csproj" Id="ab1a63e5-ec73-48e2-a62b-1ca068c64bce" />
+  <Project Path="Proyecto/Proyecto.csproj" Id="04159a1f-5c33-4875-84e6-91952404949b" />
+  <Project Path="ReinicioSistema/ReinicioSistema.csproj" Id="cfae77e8-c862-43eb-9fe8-8cf555425c44" />
+  <Project Path="User/User.csproj" Id="6f514e09-d942-44c5-aae1-6c911334a3e2" />
+</Solution>
